@@ -34,4 +34,4 @@ Hi there, I'm kat and this is my github profile. At the moment i'm majoring in a
 
 
 </a>
-<a href = "mailto:contato@katlyn"<>img src="https://img.shield.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:katlynalmeida5@gmail.com"<>img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
