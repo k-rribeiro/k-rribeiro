@@ -9,18 +9,13 @@ Hi there, I'm kat and this is my github profile. At the moment i'm majoring in a
 
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krribeiro&layout=compact&bg_color=00000000&text_color=A9A9A9&title_color=D3D3D3&border_color=A9A9A9" alt="Top Languages">
 
-
-  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/krribeiro?cardType=github&theme=tokyonight&preferLogin=true">
-    <img width="50%" alt="krribeiro's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/krribeiro?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=D3D3D3&Title=D3D3D3&Ring=D3D3D3&Border=D3D3D3">
-  </a>
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=k-rribeiro&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=k-rribeiro&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=k-rribeiro&show_icons=true" />
