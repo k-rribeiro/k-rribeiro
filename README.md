@@ -4,7 +4,7 @@ Hi there, I'm kat and this is my github profile. At the moment i'm majoring in a
 </div>
 
 
- ## Stats
+
 <div align="center">
 
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krribeiro&layout=compact&bg_color=00000000&text_color=A9A9A9&title_color=D3D3D3&border_color=A9A9A9" alt="Top Languages">
@@ -16,7 +16,6 @@ Hi there, I'm kat and this is my github profile. At the moment i'm majoring in a
 
 </div>
 
-## Working with:
 <div align="center">
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -26,8 +25,8 @@ Hi there, I'm kat and this is my github profile. At the moment i'm majoring in a
 
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-## Connect with me  
 <div align="center">
 <a href="https://github.com/k-rribeiro" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
