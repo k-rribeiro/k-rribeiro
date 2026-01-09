@@ -1,4 +1,4 @@
-## <div align="center"> Hi, I'm Kat Ribeiro</div>
+## <div align="center"> Hi, I'm Katlyn Ribeiro</div>
 
 <div align="center">
 I'm an undergraduate student in <strong>Applied Mathematics and Scientific Computing</strong> at the  
