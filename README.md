@@ -8,15 +8,12 @@ I'm an undergraduate student in <strong>Applied Mathematics and Scientific Compu
 <br/>
 
 <div align="center">
-My GitHub is mainly dedicated to academic and personal projects related to  
-<strong>software development, scientific computing, and problem solving</strong>.  
-Here you will find projects that reflect my learning journey, technical growth,  
-and interest in building well-structured and efficient solutions.
+My GitHub is mainly dedicated to academic and personal projects related to software development, scientific computing, and problem solving. Here you will find projects that reflect my learning journey, technical growth, and interest in building well-structured and efficient solutions.
 </div>
 
 ---
 
-## 🎓 Career Studies
+##  Career Studies
 
 - Undergraduate student in **Applied Mathematics and Scientific Computing** — USP  
 - Strong background in:
@@ -30,7 +27,7 @@ and interest in building well-structured and efficient solutions.
 
 ---
 
-## 💻 Programming Languages & Tools
+## Programming Languages & Tools
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -52,7 +49,7 @@ and interest in building well-structured and efficient solutions.
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <div align="center">
   <a href="https://github.com/k-rribeiro" target="_blank">
